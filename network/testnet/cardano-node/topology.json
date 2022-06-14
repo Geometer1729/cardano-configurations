@@ -1,7 +1,7 @@
 {
   "Producers": [
     {
-      "addr": "relays-new.cardano-testnet.iohkdev.io",
+      "addr": "3.127.133.53",
       "port": 3001,
       "valency": 2
     }
